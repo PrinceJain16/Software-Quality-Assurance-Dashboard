@@ -1,0 +1,5 @@
+sqa-backend/.env
+.qodo/
+node_modules/
+dist/
+build/
